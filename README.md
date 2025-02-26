@@ -7,6 +7,7 @@ Additionaly, I encountered a problem where all the assets file got deleted when 
 I got this idea from a 14 Hour Python Project which shows how to create the game.
 
 Note: Some files of the original assets are not included in this demo. 
+
 Additional Note: I do not own this code as well as the other files. All rights reserved to Tech with Tim.
 
 Here are the links:
