@@ -11,5 +11,7 @@ Additional Note: I do not own this code as well as the other files. All rights r
 
 Here are the links:
 https://youtu.be/RuTmd4g5K8Q?si=b3k0AXoHHAJXarDM - YouTube (demo code)
+
 https://github.com/techwithtim/Python-Platformer/tree/main/assets - Github (Assets & Main Code)
+
 https://stackoverflow.com/questions/38034866/cant-push-to-remote-branch-cannot-be-resolved-to-branch - StackOverFlow (Can't push to remote branch, cannot be resolved to branch)
