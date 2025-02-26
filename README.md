@@ -1,10 +1,10 @@
 This is a basic 2D demo game Platform.
 
-I encountered some problems with Git so I had to ask some help from my friends and search the internet for help regarding the issue.
+I got this idea from a 14 Hour Python Project which shows how to create the game.
+
+I encountered some problems with Git so I had to ask some help from my friends and search the internet in solving a problem I am encountering.
 I also created a new branch called Friend_local since I had a problem pushing the game file into the main branch.
 Additionaly, I encountered a problem where all the assets file got deleted when I tried to rebase it since it won't push to the main branch even after using git pull and git push again.
-
-I got this idea from a 14 Hour Python Project which shows how to create the game.
 
 Note: Some files of the original assets are not included in this demo. 
 
